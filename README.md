@@ -1,5 +1,6 @@
 # final_project_b
 To run the game: 
+
 Put the game and image files onto a rasberry pi
 
 Put the image files under the directory /home/pi/p4/graphics/(and then the image name example: mario.png)
